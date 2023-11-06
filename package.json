@@ -14,10 +14,10 @@
     "@astrojs/mdx": "^0.19.7",
     "@astrojs/rss": "^3.0.0",
     "@astrojs/sitemap": "^3.0.3",
-    "astro": "^2.10.15"
+    "astro": "^3.4.3"
   },
   "volta": {
-    "node": "20.4.0",
-    "npm": "9.8.0"
+    "node": "20.9.0",
+    "npm": "10.2.3"
   }
 }
