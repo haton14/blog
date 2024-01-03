@@ -3,7 +3,7 @@ title: "プロフィール"
 description: "haton14について"
 pubDate: "2023-04-28"
 updatedDate: "2023-04-29"
-heroImage: "/pigeon-gopher.avif"
+heroImage: "https://images.blog.haton14.com/2023-04-28_first-post/haton14.avif"
 layout: ../layouts/Profile.astro
 ---
 
