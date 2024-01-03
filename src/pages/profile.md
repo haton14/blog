@@ -7,7 +7,9 @@ heroImage: "https://images.blog.haton14.com/2023-04-28_first-post/haton14.avif"
 layout: ../layouts/Profile.astro
 ---
 
-茨城県出身 東京都在住 1995年生まれ
+茨城県出身 1995年生まれ
+
+神奈川=>東京都=>茨城に戻ってきた 
 
 ### 職業
 
