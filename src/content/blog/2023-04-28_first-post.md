@@ -2,7 +2,7 @@
 title: "少し前にドメインを取得したので調子に乗ってブログ作ってみました"
 description: "Astroでマークダウンブログ"
 pubDate: "2023/04/28"
-heroImage: "/pigeon-gopher.avif"
+heroImage: "https://images.blog.haton14.com/2023-04-28_first-post/haton14.avif"
 ---
 
 Astroいいですね。マークダウン書くだけでブログが生成されるの素敵です。
