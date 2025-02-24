@@ -14,7 +14,7 @@
     "@astrojs/mdx": "^1.1.5",
     "@astrojs/rss": "^4.0.10",
     "@astrojs/sitemap": "^3.2.1",
-    "astro": "^3.6.5"
+    "astro": "^5.3.1"
   },
   "volta": {
     "node": "20.9.0",
